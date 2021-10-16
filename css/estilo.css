@@ -1,0 +1,30 @@
+#body{
+
+    background-color: whitesmoke;
+}
+header{   
+    background-color: brown;
+}
+.nav-link {
+    color: whitesmoke !important;
+    font-size: 18px;
+}
+a:hover {
+    color: #b1d6ff !important;
+    font-weight: bolder;}
+    
+.center-card {
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-top: 150px;
+    height: 280px;
+    border: 1px solid brown;
+}
+.card-perso {
+    height: 510px !important; 
+    width: 239px !important;
+    border: 1px solid brown !important;
+    overflow: hidden;
+}
